@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - jlsc23012025
 on:
   push:
     branches:
-      - main
+      - webapp1NetCoreAzure
   workflow_dispatch:
 
 jobs:
